@@ -31,7 +31,8 @@ Windows / Android 开发者，喜欢折腾系统工具、播放器与自动化�
 
 | 项目 | 简介 | 技术 |
 |:---|:---|:---|
-| [**BlueScreenHelper**](https://github.com/Memories-white/BlueScreenHelper) | WinUI 3 蓝屏诊断助手，支持 MDMP / Windows 内核转储解析、系统健康扫描与 AI 诊断 | `C#` `WinUI 3` | [**competition-platform**](https://github.com/Memories-white/competition-platform) | 基于 Docker 的云计算竞赛环境自动构建系统 | `Docker` `HTML` |
+| [**BlueScreenHelper**](https://github.com/Memories-white/BlueScreenHelper) | WinUI 3 蓝屏诊断助手，支持 MDMP / Windows 内核转储解析、系统健康扫描与 AI 诊断 | `C#` `WinUI 3` |
+| [**competition-platform**](https://github.com/Memories-white/competition-platform) | 基于 Docker 的云计算竞赛环境自动构建系统 | `Docker` `HTML` |
 | [**LyriconProvider**](https://github.com/Memories-white/LyriconProvider) | 为 Melodist 补充 QRC 逐字歌词与翻译，已向上游提交 [PR #2](https://github.com/limczhh/LyriconProvider/pull/2) | `Kotlin` `Xposed` |
 
 ## 📊 GitHub 数据
