@@ -38,18 +38,15 @@ Windows / Android 开发者，喜欢折腾系统工具、播放器与自动化�
 
 ## 📊 GitHub 数据
 
-<div align="center">
+| 公开仓库 | 关注者 | 正在关注 |
+| :---: | :---: | :---: |
+| [10](https://github.com/Memories-white?tab=repositories) | [2](https://github.com/Memories-white?tab=followers) | [5](https://github.com/Memories-white?tab=following) |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Memories-white&show_icons=true&theme=github_dark&hide_border=true&locale=cn&rank_icon=github">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Memories-white&show_icons=true&theme=default&hide_border=true&locale=cn&rank_icon=github">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Memories-white&layout=compact&theme=github_dark&hide_border=true&langs_count=8">
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memories-white&layout=compact&theme=default&hide_border=true&langs_count=8">
-</picture>
+**主要语言** · HTML 26.9% · C# 18.3% · Astro 14.6% · TypeScript 13.5% · CSS 8.8%
 
-</div>
+数据快照 · 2026-11-16。语言占比按本人公开且未归档的非 Fork 仓库代码量统计。
+
+[查看 GitHub 贡献活动](https://github.com/Memories-white#contribution-activity)
 
 ---
 
